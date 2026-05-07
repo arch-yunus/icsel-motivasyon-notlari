@@ -1,4 +1,6 @@
 
+![İçsel Motivasyon Banner](./assets/banner.png)
+
 # İçsel Motivasyon Notları 🧠⚡
 
 Bu depo; içsel motivasyon, derin odaklanma ve insan potansiyelinin zirvesi olan **"Optimal Deneyim" (Akış)** konularını ele alan bir bilgi mimarisidir. Geleneksel "havuç-sopa" yöntemlerinin ötesine geçerek, bir işi sadece o işi yapmanın verdiği haz için yapma sanatını teorik bir temelden alıp pratik bir sisteme dönüştürmeyi hedefler.
